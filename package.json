@@ -1,6 +1,6 @@
 {
-  "name": "strapi-provider-email-nodemailer-smtp",
-  "version": "1.0.0",
+  "name": "@tudorilisoi/strapi-provider-email-nodemailer-smtp",
+  "version": "1.0.2",
   "description": "Nodemailer provide for Strapi with custom smtp server setup",
   "main": "./lib",
   "directories": {
@@ -14,6 +14,10 @@
     "Email",
     "Provider"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tudorilisoi/strapi-provider-email-gmail-oath2"
+  },
   "author": "Subhodip Deti",
   "license": "MIT",
   "dependencies": {
